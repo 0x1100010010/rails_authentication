@@ -56,3 +56,5 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem "better_errors", "~> 2.9"
+
+gem "devise", "~> 4.7"
